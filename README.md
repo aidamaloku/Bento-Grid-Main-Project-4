@@ -55,7 +55,6 @@ I want to deepen my knowledge of a CSS framework because I find writing all the 
 
 ## Author
 
-- Git - [@aidamaloku](https://github.com/aidamaloku)
 - Frontend Mentor - [@Aidam000](https://www.frontendmentor.io/profile/Aidam000)
 
 
