@@ -31,8 +31,8 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://project-4-bento-grid-main.netlify.app/)
+- Solution URL: [https://github.com/aidamaloku/Bento-Grid-Main-Project-4/]
+- Live Site URL: [https://project-4-bento-grid-main.netlify.app/]
 
 ## My process
 
