@@ -1,0 +1,89 @@
+body {
+    background-color: rgba(211, 211, 211, 0.308);
+}
+/*container of all elements*/
+.container {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    width: 1400px;
+    align-items: center;
+    font-family: "DM Sans";
+    margin: 0 100px;
+}
+
+/*grid*/
+.grid {
+    display: grid;
+    grid-template-areas:
+        "cell11 cell12 cell12 cell13"
+        "cell21 cell22 cell23 cell13"
+        "cell21 cell31 cell32 cell32"
+    ;
+    gap: 1rem;
+}
+
+/*assignment of grid-areas*/
+.cell11 {
+    grid-area: cell11;
+}
+
+.cell12 {
+    grid-area: cell12;
+}
+
+.cell13 {
+    grid-area: cell13;
+}
+
+.cell21 {
+    grid-area: cell21;
+}
+
+.cell22 {
+    grid-area: cell22;
+}
+
+.cell23 {
+    grid-area: cell23;
+}
+
+.cell31 {
+    grid-area: cell31;
+}
+
+.cell32 {
+    grid-area: cell32;
+}
+
+/*containers in grid itself*/
+.cell11,
+.cell12,
+.cell13,
+.cell23,
+.cell31 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.cell32 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+/*footer*/
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: -50px;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}

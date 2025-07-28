@@ -1,0 +1,229 @@
+/*content in cell*/
+
+/*font-style for titles in cells: 11 13 21 22 23 31*/
+.title-black {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 0.9;
+}
+
+/*cell11*/
+.cell11 {
+    height: 300px;
+    width: 200px;
+    background-color: rgba(243, 139, 4, 0.089);
+    border-radius: 8px;
+    margin-left: 170px;
+}
+
+#title11 {
+    margin: 0;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.span11 {
+    color: #7B61FF;
+    font-style: italic;
+}
+
+.img11 {
+    height: 60px;
+    width: 140px;
+    cursor: pointer;
+}
+
+/*cell12*/
+.cell12 {
+    width: 560px;
+    height:250px;
+    background-color: #7B61FF;
+    border-radius: 8px;
+}
+
+.title12, .subtitle12 {
+    line-height: 0.9;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title12-a, .title12-b {
+    font-size: 50px;
+    margin: 0;
+}
+
+.span12-a {                              /*10x*/
+    font-size: 50px;
+    color: goldenrod;
+}
+
+.span12-b {                               /*faster*/
+    font-style: italic;
+}
+
+img {
+    height: 20px;
+    width: 175px;
+    margin-top: 20px;
+}
+
+.subtitle12 {
+    font-size: 15px;
+}
+
+/*cell13*/
+
+.cell13 {
+    width: 250px;
+    height: 456px;
+    background-color: #E5D9FF;
+    border-radius: 8px;
+    padding-left: 30px;
+}
+
+#title13 {
+    margin: 0;
+    margin-top: 30px;
+    width: 200px;
+}
+
+.img13 {
+    height: 230px;
+    width: 223px;
+}
+
+.subtitle13 {
+    width: 180px;
+    line-height: 1;
+    margin-left: 10px;
+}
+
+/*cell21*/
+.cell21 {
+    height: 320px;
+    width: 200px;
+    background-color: rgba(218, 165, 32, 0.459);
+    border-radius: 8px;
+    margin-left: 170px;
+}
+
+#title21 {
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+
+.img21 {
+    height: 150px;
+    width: 170px;
+    margin-left: 20px;
+}
+
+/*cell22*/
+.cell22 {
+    width: 280px;
+    height: 190px;
+    background-color: white;
+    border-radius: 8px;
+    margin-top: -50px;
+}
+
+#title22 {
+    width: 170px;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.img22 {
+    height: 60px;
+    width: 250px;
+    margin-left: 20px;
+    margin-top: 5px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+/*cell23*/
+.cell23 {
+    width: 260px;
+    height: 190px;
+    background-color: goldenrod;
+    border-radius: 8px;
+    margin-top: -50px;
+}
+
+#title23 {
+    width: 170px;
+
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-size: 25px;
+}
+
+.img23 {
+    height: 85px;
+    width: 185px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+/*cell31*/
+.cell31 {
+    width: 280px;
+    height: 165px;
+    background-color: white;
+    border-radius: 8px;
+
+}
+
+#title31 {
+    width: 170px;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 50px;
+}
+
+.subtitle31 {
+    display: block;
+    font-size: 15px;
+    margin: 0;
+
+
+}
+
+.img31 {
+    height: 35px;
+    width: 120px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+
+/*cell32*/
+.cell32 {
+    width: 560px;
+    height: 165px;
+    background-color: white;
+    border-radius: 8px;
+    background-color: #7B61FF;
+}
+
+.title32 {
+    width: 250px;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    font-size: 30px;
+    color: white;
+    line-height: 1;
+}
+
+.img32 {
+    height: 140px;
+    width: 230px;
+    margin-bottom: 15px;
+}
