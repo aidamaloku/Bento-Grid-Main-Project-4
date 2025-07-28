@@ -19,9 +19,6 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
 
 ## Overview
 
-### The challenge
-
-
 
 ### Screenshot
 
