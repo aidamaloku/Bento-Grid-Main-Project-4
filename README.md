@@ -43,15 +43,9 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
 - Flexbox
 - CSS Grid
 
-
-
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-
-
-
+I learned how to effectively use the grid-template-areas property to create complex grid layouts, especially when the number of rows and columns doesn’t match. This helped me better understand CSS Grid and how to organize content visually in a more intuitive way.
 
 ### Continued development
 
